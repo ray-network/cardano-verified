@@ -21,6 +21,8 @@ Use [jsdelivr](https://www.jsdelivr.com/) for proxying files:
 
 **ICON:** https://cdn.jsdelivr.net/gh/ray-network/cardano-verified/tokens/icon/asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa.png
 
+**VERSION:** https://cdn.jsdelivr.net/gh/ray-network/cardano-verified@v1.0.0/tokens/list.json
+
 
 ## Quality standard
 
