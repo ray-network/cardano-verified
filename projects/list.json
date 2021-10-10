@@ -1,0 +1,565 @@
+{
+  "updated": "2021-10-10T10:58:11.685Z",
+  "data": [
+    {
+      "name": "RayWallet",
+      "category": "Wallet",
+      "icon": "raywallet.png",
+      "description": "RayWallet is a web light wallet for Cardano. Light wallets don't need to download or synchronize the blockchain. This means that once you open the wallet, you can send or verify the transaction receipts right away.",
+      "url": "https://rraayy.com/wallet",
+      "twitter": "https://twitter.com/RayWallet"
+    },
+    {
+      "name": "Daedalus",
+      "category": "Wallet",
+      "icon": "daedalus.png",
+      "description": "The open source wallet for ada, built to grow with the Cardano blockchain. Daedalus downloads a full copy of the Cardano blockchain and independently validates every transaction in its history.",
+      "url": "https://daedaluswallet.io",
+      "twitter": "https://twitter.com/inputoutputHK"
+    },
+    {
+      "name": "AdaLite",
+      "category": "Wallet",
+      "icon": "adalite.png",
+      "description": "We are an open-source client-side interface for direct interaction with the Cardano blockchain.",
+      "url": "https://adalite.io",
+      "twitter": "https://twitter.com/AdaLiteWallet"
+    },
+    {
+      "name": "Yoroi",
+      "category": "Wallet",
+      "icon": "yoroi.png",
+      "description": "Yoroi is a light-client wallet for Cardano and Ergo that is simple, fast and secure — your gateway to the financial world.",
+      "url": "https://yoroi-wallet.com",
+      "twitter": "https://twitter.com/YoroiWallet"
+    },
+    {
+      "name": "Nami Wallet",
+      "category": "Wallet",
+      "icon": "namiwallet.png",
+      "description": "Nami Wallet is a browser based wallet extension to interact with the Cardano blockchain and is non-custodial. It can be used to send and store multiple assets, to delegate, to mint tokens, use multi-sigs and much more.",
+      "url": "https://namiwallet.io",
+      "twitter": "https://twitter.com/namiwallet"
+    },
+    {
+      "name": "GeroWallet",
+      "category": "Wallet",
+      "icon": "gerowallet.png",
+      "description": "Our mission is to create the ultimate Cardano wallet that boasts interchain and multi-chain compatibility—while providing a superior user experience through an intuitive UI. We envision a wallet that empowers individuals to access Decentralized Finance (DeFi) technology and a “swiss army knife” of features.",
+      "url": "https://gerowallet.io",
+      "twitter": "https://twitter.com/GeroWallet"
+    },
+    {
+      "name": "CardWallet",
+      "category": "Wallet",
+      "icon": "cardwallet.png",
+      "description": "CardWallet is a next generation non-custodial wallet, with FIAT on and off ramps, as well as a full suite of DeFi capabilities.",
+      "url": "https://cardwallet.fi",
+      "twitter": "https://twitter.com/CardWallet_fi"
+    },
+    {
+      "name": "Ellipal",
+      "category": "Wallet",
+      "icon": "ellipal.png",
+      "description": "Secure your Bitcoin and Cryptocurrency with the strongest, air-gapped and best cold wallet. Works seamlessly with your mobile phone.",
+      "url": "https://www.ellipal.com",
+      "twitter": "https://twitter.com/ellipalwallet"
+    },
+    {
+      "name": "Infinito Wallet",
+      "category": "Wallet",
+      "icon": "infinitowallet.png",
+      "description": "A safe and simple wallet for everyone. Infinito Wallet helps newcomers to seize crypto investment opportunities. Buy, invest, trade, earn, use easily.",
+      "url": "https://www.infinitowallet.io",
+      "twitter": "https://twitter.com/Infinito_Ltd"
+    },
+    {
+      "name": "Trezor",
+      "category": "Wallet",
+      "icon": "trezor.png",
+      "description": "Trezor Wallet is an easy-to-use interface for your Trezor. Trezor Wallet allows you to easily control your funds, manage your balance and initiate transfers.",
+      "url": "https://trezor.io",
+      "twitter": "https://twitter.com/trezor"
+    },
+    {
+      "name": "Ledger",
+      "category": "Wallet",
+      "icon": "ledger.png",
+      "description": "Ledger wallets are hardware cryptocurrency wallets made by Ledger.  Ledger's hardware wallets are multicurrency wallets that are used to store private keys for cryptocurrencies offline.",
+      "url": "https://www.ledger.com",
+      "twitter": "https://twitter.com/Ledger"
+    },
+    {
+      "name": "Atomic Wallet",
+      "category": "Wallet",
+      "icon": "atomicwallet.png",
+      "description": "Manage your Bitcoin, Ethereum, XRP, Litecoin, XLM, and over 300 other coins and tokens.",
+      "url": "https://atomicwallet.io",
+      "twitter": "https://twitter.com/atomicwallet"
+    },
+    {
+      "name": "Medusa",
+      "category": "Wallet",
+      "icon": "medusa.png",
+      "description": "Medusa is a web-based Cardano Wallet, which allows you to keep your ADA and make transactions by secure and convenient way.",
+      "url": "https://adawallet.io",
+      "twitter": "https://twitter.com/medusaadawallet"
+    },
+    {
+      "name": "GameChanger",
+      "category": "Wallet",
+      "icon": "gamechanger.png",
+      "description": "The ultimate crypto wallet experience for the Web, with native NFT and token features, powered by Cardano Blockchain and upcoming third party applications.",
+      "url": "https://gamechanger.finance",
+      "twitter": "https://twitter.com/GameChangerOk"
+    },
+    {
+      "name": "CCWallet",
+      "category": "Wallet",
+      "icon": "ccwallet.png",
+      "description": "An alternative Cardano light wallet for the browser. Brought to you by TITANstaking and AHL (CNTools maintainer).",
+      "url": "https://ccwallet.io",
+      "twitter": "https://twitter.com/ccwalletio"
+    },
+    {
+      "name": "Exodus",
+      "category": "Wallet",
+      "icon": "exodus.png",
+      "description": "Send, receive & exchange Bitcoin and 100+ cryptocurrencies with ease on the world's leading Desktop, Mobile and Hardware crypto wallets.",
+      "url": "https://www.exodus.com",
+      "twitter": "https://twitter.com/exodus_io"
+    },
+    {
+      "name": "Guarda Wallet",
+      "category": "Wallet",
+      "icon": "guardawallet.png",
+      "description": "Custody-free crypto wallet for Bitcoin, Ethereum, Tether, TRON, DeFi Tokens, Stablecoins and hundreds of other assets. Buy and exchange crypto.",
+      "url": "https://guarda.com",
+      "twitter": "https://twitter.com/GuardaWallet"
+    },
+    {
+      "name": "RaySwap",
+      "category": "DEX (Liquidity)",
+      "icon": "rayswap.png",
+      "description": "RaySwap is an automated liquidity protocol for creating liquidity and trading native tokens on Cardano. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for fast, efficient trading. Where it makes tradeoffs decentralization, censorship resistance, and security are prioritized.",
+      "url": "https://rayswap.io",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "DeFIRE",
+      "category": "DEX (Liquidity)",
+      "icon": "defire.png",
+      "description": "deFIRE is the FIRST DEX aggregator built for Cardano DEXs. Powered by Changelly.",
+      "url": "https://defire.fi",
+      "twitter": "https://twitter.com/DeFIRE_Fi"
+    },
+    {
+      "name": "ORION",
+      "category": "DEX (Liquidity)",
+      "icon": "orion.png",
+      "description": "The first global and decentralized gateway to the crypto market. Access major CEX, DEX + swap pools directly from your wallet.",
+      "url": "https://www.orionprotocol.io",
+      "twitter": "https://twitter.com/orion_protocol"
+    },
+    {
+      "name": "YaySwap",
+      "category": "DEX (Liquidity)",
+      "icon": "yayswap.png",
+      "description": "The first hybrid DEX platform on the Cardano Blockchain. Swap your tokens in an instant, completely decentralized, and open source.",
+      "url": "https://yayswap.io",
+      "twitter": "https://twitter.com/YaySwap"
+    },
+    {
+      "name": "SundaeSwap",
+      "category": "DEX (Liquidity)",
+      "icon": "sundaeswap.png",
+      "description": "The Sweetest Decentralized Exchange on Cardano.",
+      "url": "https://www.sundaeswap.finance",
+      "twitter": "https://twitter.com/SundaeSwap"
+    },
+    {
+      "name": "Maladex",
+      "category": "DEX (Liquidity)",
+      "icon": "maladex.png",
+      "description": "Comprehensive crypto decentralized exchange providing access to liquidity providing (AMM), yield farming, crypto indexes, mirrored crypto assets, derivative trading, option trading strategies structured via smart contracts, and more.",
+      "url": "https://maladex.com",
+      "twitter": "https://twitter.com/CardanoMaladex"
+    },
+    {
+      "name": "ErgoDEX",
+      "category": "DEX (Liquidity)",
+      "icon": "ergodex.png",
+      "description": "A non-custodial, decentralised exchange that allows a quick, effortless and secure transfer of liquidity between the Ergo and Cardano networks.",
+      "url": "https://ergodex.io",
+      "twitter": "https://twitter.com/ErgoDex"
+    },
+    {
+      "name": "ADAX Pro",
+      "category": "DEX (Liquidity)",
+      "icon": "adaxpro.png",
+      "description": "ADAX is an automated liquidity protocol that facilitates trades within the Cardano ecosystem in a completely decentralized and non-custodial way.",
+      "url": "https://adax.pro",
+      "twitter": "https://twitter.com/adax_pro"
+    },
+    {
+      "name": "CardSwap",
+      "category": "DEX (Liquidity)",
+      "icon": "cardswap.png",
+      "description": "Cardano's Premium DEX Solution",
+      "url": "https://www.cardstarter.io",
+      "twitter": "https://twitter.com/CardanoSwap"
+    },
+    {
+      "name": "Ardana",
+      "category": "DEX (Liquidity)",
+      "icon": "ardana.png",
+      "description": "Ardana is a decentralized stablecoin hub which will bring the necessary DeFi primitives needed to bootstrap & maintain any economy to Cardano. Ardana offers an on-chain asset-backed stablecoin and a decentralized stable-asset DEX.",
+      "url": "https://ardana.org",
+      "twitter": "https://twitter.com/ArdanaProject"
+    },
+    {
+      "name": "PHARO",
+      "category": "DEX (Liquidity)",
+      "icon": "pharo.png",
+      "description": "Pharo is building a protocol for decentralized risk management products and applications. Individuals, businesses, large and small, non-profit organizations and insurtech startups can all come together to provide better products and services.",
+      "url": "https://www.pharo.tech",
+      "twitter": "https://twitter.com/Pharo44153106"
+    },
+    {
+      "name": "Cardax",
+      "category": "DEX (Liquidity)",
+      "icon": "cardax.png",
+      "description": "Decentralized Exchange for the Cardano ecosystem. In Cardax anyone can become a liquidity provider and start earning CDX tokens. ",
+      "url": "https://cardax.io",
+      "twitter": "https://twitter.com/CardaxDEX"
+    },
+    {
+      "name": "Minswap",
+      "category": "DEX (Liquidity)",
+      "icon": "minswap.png",
+      "description": "Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience.",
+      "url": "https://minswap.org",
+      "twitter": "https://twitter.com/MinswapDEX"
+    },
+    {
+      "name": "Fanance",
+      "category": "DEX (Liquidity)",
+      "icon": "fanance.png",
+      "description": "Fanance Club is a Sport Player's stocks trading DEX platform build on Cardano Blockchain.",
+      "url": "https://fanance.club",
+      "twitter": "https://twitter.com/FananceClub"
+    },
+    {
+      "name": "Mirqur",
+      "category": "DEX (Liquidity)",
+      "icon": "mirqur.png",
+      "description": "Pareto-optimal DEX on Cardano. Stakepool Airdrop IS LIVE! Delegate to MRQR to earn ADA and MQR.",
+      "url": "https://mirqur.io",
+      "twitter": "https://twitter.com/Mirqurio"
+    },
+    {
+      "name": "Ray Network",
+      "category": "DeFi Ecosystem",
+      "icon": "raynetwork.png",
+      "description": "We provide the whole range of blockchain solutions for Cardano: from DeFi exchange, API provisioning, light wallets, minting tools & explorers, to different SDKs that open the blockchain world to thousands of crypto-enthusiasts from all over the world. It's all about ADA DeFi finances in one place!",
+      "url": "https://rraayy.com",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "VyFinance",
+      "category": "DeFi Ecosystem",
+      "icon": "vyfinance.png",
+      "description": " Finance is a Decentralized Finance protocol coming to Cardano Chain with a few firsts: Neural Net AutoHarvesting & HedgeFund Staking",
+      "url": "https://www.vyfi.io",
+      "twitter": "https://twitter.com/VyFiOfficial"
+    },
+    {
+      "name": "CoinLink",
+      "category": "DeFi Ecosystem",
+      "icon": "coinlink.png",
+      "description": "MULTICHAIN DEFI ECOSYSTEM  All Defi services in one place, as simple as it gets",
+      "url": "https://coinlink.finance",
+      "twitter": "https://twitter.com/CoinlinkFinance"
+    },
+    {
+      "name": "dcSpark",
+      "category": "DeFi Ecosystem",
+      "icon": "dcspark.png",
+      "description": "We are a product based Blockchain company focused on building critical products and solutions on top of the most promising crypto projects in the space. Our products empower our users with a great experience thanks to our domain expertise in the full Blockchain stack.",
+      "url": "https://dcspark.io",
+      "twitter": "https://twitter.com/dcspark_io"
+    },
+    {
+      "name": "Liqwid",
+      "category": "Lending & Borrowing",
+      "icon": "liqwid.png",
+      "description": "Liqwid is an open source, algorithmic and non-custodial interest rate protocol built for lenders, borrowers and developers.",
+      "url": "https://www.liqwid.finance",
+      "twitter": "https://twitter.com/liqwidfinance"
+    },
+    {
+      "name": "MELD",
+      "category": "Lending & Borrowing",
+      "icon": "meld.png",
+      "description": "MELD is the first DeFi, non-custodial, banking protocol. You can securely lend & borrow both crypto and fiat currencies with ease and stake your MELD tokens for APY.",
+      "url": "https://www.meld.com",
+      "twitter": "https://twitter.com/MELD_labs"
+    },
+    {
+      "name": "AADA",
+      "category": "Lending & Borrowing",
+      "icon": "aada.png",
+      "description": "Aada is a decentralized money market protocol that enables users to lend and borrow cryptocurrencies in a trustless manner. There is a wide variety of cryptocurrencies to choose from. With addition of Cardano ERC20 converter, Aada will bring must-have functionality to DeFi ecosystem.",
+      "url": "https://aada.finance",
+      "twitter": "https://twitter.com/AadaFinance"
+    },
+    {
+      "name": "Nexo",
+      "category": "Lending & Borrowing",
+      "icon": "nexo.png",
+      "description": "The leading regulated institution for digital assets, pioneer of the 1st Instant Crypto Credit Lines™ and the high-yield Earn Crypto Interest product.",
+      "url": "https://nexo.io",
+      "twitter": "https://twitter.com/NexoFinance"
+    },
+    {
+      "name": "Paribus",
+      "category": "Lending & Borrowing",
+      "icon": "paribus.png",
+      "description": "A cross-chain borrowing and lending protocol for NFTs, liquidity positions, and synthetic assets, powered by the Cardano blockchain.",
+      "url": "https://paribus.io",
+      "twitter": "https://twitter.com/paribus_io"
+    },
+    {
+      "name": "RayKickstart",
+      "category": "Launchpad",
+      "icon": "raykickstart.png",
+      "description": "RayKickstart exists to help bring creative projects to life through tokenization. It allows you to create and fund your projects in minutes. A crypto-home for services, products, film, music, art, theater, games, comics, design, photography, and more.",
+      "url": "https://rraayy.com/kickstart",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "Occam",
+      "category": "Launchpad",
+      "icon": "occam.png",
+      "description": "OccamX + OccamRazer + Occelerator = Cardano's DeFi powerhouse",
+      "url": "https://occam.fi",
+      "twitter": "https://twitter.com/OccamFi"
+    },
+    {
+      "name": "Cardstarter",
+      "category": "Launchpad",
+      "icon": "cardstarter.png",
+      "description": "CardStarter is a decentralized accelerator and swapping platform, connecting early stage Cardano innovators with our community of donors.",
+      "url": "https://cardstarter.io",
+      "twitter": "https://twitter.com/CardStarter"
+    },
+    {
+      "name": "Vent",
+      "category": "Launchpad",
+      "icon": "vent.png",
+      "description": "All In One Community Launchpad. The simplest way to research, apply & invest in early Cardano-Polygon projects.",
+      "url": "https://www.vent.finance",
+      "twitter": "https://twitter.com/VentFinance"
+    },
+    {
+      "name": "Trustpad",
+      "category": "Launchpad",
+      "icon": "trustpad.png",
+      "description": "TrustPad is a multi-chain IDO platform allowing projects to raise liquidity in a safe way. Binance, Ethereum, Cardano.",
+      "url": "https://trustpad.io",
+      "twitter": "https://twitter.com/TrustPad"
+    },
+    {
+      "name": "Synthesis",
+      "category": "Launchpad",
+      "icon": "synthesis.png",
+      "description": "Synthesis.finance is a blockchain based crowdfunding platform for individuals, communities, startups and enterprises with a focus on static, hybrid and perpetual random number generator raffles.",
+      "url": "http://synthesis.finance",
+      "twitter": ""
+    },
+    {
+      "name": "Wrap Assets",
+      "category": "Synthetix Assets",
+      "icon": "wrapassets.png",
+      "description": "Bring your assets onto Cardano!",
+      "url": "https://www.wrapassets.io",
+      "twitter": "https://twitter.com/WrapAssets"
+    },
+    {
+      "name": "Indigo Protocol",
+      "category": "Synthetix Assets",
+      "icon": "indigoprotocol.png",
+      "description": "Indigo is an algorithmic, autonomous synthetics protocol for on-chain price exposure to real-world assets, built on Cardano.",
+      "url": "https://indigoprotocol.io",
+      "twitter": "https://twitter.com/Indigo_protocol"
+    },
+    {
+      "name": "Stasis",
+      "category": "Stablecoin",
+      "icon": "stasis.png",
+      "description": "Crypto-enabler platform that provides an institutional-grade link between decentralized finance world and the off-chain market.",
+      "url": "https://stasis.net",
+      "twitter": "https://twitter.com/stasisnet"
+    },
+    {
+      "name": "Djed",
+      "category": "Stablecoin",
+      "icon": "djed.png",
+      "description": "Djed is a stablecoin, based on algorithmic design. It uses smart contracts to ensure price stabilization, and that the coin will be useful for decentralized finance (DeFi) operations. It operates by keeping a reserve of base coins, and minting and burning stablecoins and reserve coins.",
+      "url": "https://djed.xyz",
+      "twitter": ""
+    },
+    {
+      "name": "Matrixswap",
+      "category": "Other",
+      "icon": "matrixswap.png",
+      "description": "Trade decentralized perpetual futures with up to 25x leverage on Polygon, Polkadot, and Cardano.",
+      "url": "https://www.matrixswap.io",
+      "twitter": "https://twitter.com/matrixswap"
+    },
+    {
+      "name": "Ensuro",
+      "category": "Other",
+      "icon": "ensuro.png",
+      "description": "Ensuro bridges the gap between the desire of alternative capital of MGAs and the innovative capital sitting in DeFi.",
+      "url": "https://ensuro.co",
+      "twitter": "https://twitter.com/Ensuroproject"
+    },
+    {
+      "name": "Charli3",
+      "category": "Oracle",
+      "icon": "charli3.png",
+      "description": "Cardano's Decentralized Oracle Solution.",
+      "url": "https://charli3.io",
+      "twitter": "https://twitter.com/Oraclecharli3"
+    },
+    {
+      "name": "API3",
+      "category": "Oracle",
+      "icon": "api3.png",
+      "description": "The Web3 API Economy. Create trustless applications that interact with Web APIs.",
+      "url": "https://api3.org",
+      "twitter": "https://twitter.com/API3DAO"
+    },
+    {
+      "name": "WolframAlpha",
+      "category": "Oracle",
+      "icon": "wolframalpha.png",
+      "description": "Wolfram Alpha, a major computational knowledge engine providing technology for major services such as Apple’s Siri assistant.",
+      "url": "https://www.wolframalpha.com",
+      "twitter": "https://twitter.com/Wolfram_Alpha"
+    },
+    {
+      "name": "RayGraph",
+      "category": "Graph & Query",
+      "icon": "raygraph.png",
+      "description": "Any dAPP needs to get historical blockchain data, so RayGraph is ready to let you deploy graphql-based APIs to access historical data and websockets to directly access node ledger state. It uses automated scalable deploys to Cloudflare infrastructure.",
+      "url": "https://rraayy.com/graph",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "Fluree",
+      "category": "Graph & Query",
+      "icon": "fluree.png",
+      "description": "Crypto-secure immutable graph database with cloud-native architecture. Open-source.",
+      "url": "https://flur.ee",
+      "twitter": "https://twitter.com/flureepbc"
+    },
+    {
+      "name": "Dandelion",
+      "category": "Graph & Query",
+      "icon": "dandelion.png",
+      "description": "Cardano APIs as Community Service.",
+      "url": "https://dandelion.link",
+      "twitter": "https://twitter.com/repsistance"
+    },
+    {
+      "name": "Honeycomb",
+      "category": "Graph & Query",
+      "icon": "honeycomb.png",
+      "description": "An API marketplace for connecting smartcontracts to high-quality external APIs from some of the world’s premier data providers.",
+      "url": "https://honeycomb.market",
+      "twitter": "https://twitter.com/markethoneycomb"
+    },
+    {
+      "name": "Blockfrost",
+      "category": "Graph & Query",
+      "icon": "blockfrost.png",
+      "description": "We provide an instant and scalable Cardano API for free.",
+      "url": "https://blockfrost.io",
+      "twitter": "https://twitter.com/blockfrost_io"
+    },
+    {
+      "name": "Adapay",
+      "category": "Payment",
+      "icon": "adapay.png",
+      "description": "Accept ADA payments. Direct. Secure. From Anywhere. For Everyone. Apply as a merchant or a charity.",
+      "url": "https://adapay.finance",
+      "twitter": ""
+    },
+    {
+      "name": "Revuto",
+      "category": "Payment",
+      "icon": "revuto.png",
+      "description": "Control your subscriptions with the first dApp on Cardano and leverage recurring payments with REVU tokens and DeFi services.",
+      "url": "https://revuto.com",
+      "twitter": "https://twitter.com/get_revuto"
+    },
+    {
+      "name": "Sirin Labs",
+      "category": "Payment",
+      "icon": "sirinlabs.png",
+      "description": "SIRIN V3™ employs a multi-layered cyber security suite which includes a behavioral-based and machine learning Intrusion Prevention System (IPS), for proactive cyber protection in real-time.",
+      "url": "https://sirinlabs.com",
+      "twitter": "https://twitter.com/SIRINLABS"
+    },
+    {
+      "name": "COTI",
+      "category": "Payment",
+      "icon": "coti.png",
+      "description": "COTI is a fully encompassing “finance on the blockchain” ecosystem. It is built on DAG technology and designed to meet the challenges of traditional finance.",
+      "url": "https://coti.io",
+      "twitter": "https://twitter.com/COTInetwork"
+    },
+    {
+      "name": "Celsius",
+      "category": "Payment",
+      "icon": "celsius.png",
+      "description": "Earn, borrow & pay on the blockchain. Rocket Weekly rewards on your #crypto with no fees, no lockups & no banking B.S. ",
+      "url": "https://celsius.network",
+      "twitter": "https://twitter.com/CelsiusNetwork"
+    },
+    {
+      "name": "Metaps+",
+      "category": "Payment",
+      "icon": "metaps.png",
+      "description": "We provide a wide range of payment services for eCommerce sites and physical stores, including credit card, convenience store payment, e-Money, and QR payment solutions, and are continuing to actively develop a variety of new fintech services.",
+      "url": "https://metaps.com",
+      "twitter": "https://twitter.com/Metaps_PR"
+    },
+    {
+      "name": "RayData",
+      "category": "Identy / KYC",
+      "icon": "raydata.png",
+      "description": "RayData is a protocol that standardizes information written in a blockchain. The basic model is containers that are created by users, with write or read access allowed by the creator.",
+      "url": "https://rraayy.com/data",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "Atala PRISM",
+      "category": "Identy / KYC",
+      "icon": "atalaprism.png",
+      "description": "Atala PRISM is a decentralized identity solution that enables people to own their personal data and interact with organizations seamlessly, privately, and securely.",
+      "url": "https://atalaprism.io",
+      "twitter": ""
+    },
+    {
+      "name": "RayStake",
+      "category": "Stake Solutions",
+      "icon": "raystake.png",
+      "description": "Ray Network provides Cardano staking services on high-performance servers in the Cloudflare cloud. High availability, high uptime, low latency and automated infrastructure deployment allow for the highest possible ROI.",
+      "url": "https://rraayy.com/stake",
+      "twitter": "https://twitter.com/RayNetwork"
+    }
+  ]
+}
