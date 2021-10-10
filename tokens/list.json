@@ -6,7 +6,7 @@
       "name": "ADA",
       "icon": "ada.png",
       "ticker": "ADA",
-      "url": "https://cardano.org/",
+      "url": "https://cardano.org",
       "description": "Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change."
     },
     {
@@ -14,7 +14,7 @@
       "name": "Ray Token",
       "icon": "asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa.png",
       "ticker": "XRAY",
-      "url": "https://rraayy.com/",
+      "url": "https://rraayy.com",
       "description": "Ray Network is an advanced ecosystem for the Cardano blockchain platform. All about ADA finances (DeFi) in one place."
     },
     {
@@ -22,7 +22,7 @@
       "name": "ADAX",
       "icon": "asset1k3zkpw8lk6009qr5zshxeuewe0n0c9we6gg9ed.png",
       "ticker": "ADAX",
-      "url": "https://adax.pro/",
+      "url": "https://adax.pro",
       "description": "ADAX is a state of the Art Decentralized Exchange Protocol for the Cardano blockchain."
     },
     {
@@ -30,7 +30,7 @@
       "name": "Hard Blue",
       "icon": "asset1rqq07e6cqjlha9x5xdcjlty3y7pd6jll8f9ms5.png",
       "ticker": "HARD",
-      "url": "https://hard.blue/",
+      "url": "https://hard.blue",
       "description": "Real hard money on the Cardano blockchain. Scalable system for payments and value transfer between people with low fees."
     },
     {
@@ -38,7 +38,7 @@
       "name": "KICK",
       "icon": "asset1d6vxhprwjgsx2m7psytv26e8s9xuxducf7nlsw.png",
       "ticker": "KICK",
-      "url": "https://kick.io/",
+      "url": "https://kick.io",
       "description": "Kick.io is a Cardano-based fundraising platform and a project accelerator, designed to leverage DeFi innovations."
     },
     {
@@ -46,7 +46,7 @@
       "name": "VyFi",
       "icon": "asset1n8h5zakfkfw3ezahu7j5lzzjj04rt8jrnxr4jm.png",
       "ticker": "VyFi",
-      "url": "https://www.vyfi.io/",
+      "url": "https://www.vyfi.io",
       "description": "VyFi is a DeFi platform on Cardano offering lending, yield farms, liquidity pools and auto-harvisting."
     }
   ]
