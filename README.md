@@ -15,11 +15,11 @@ Projects: https://github.com/ray-network/cardano-verified/issues/2
 
 ## Usage
 
-Use [jsdelivr](https://www.jsdelivr.com/) for proxying files:
+Use `raw.githubusercontent.com` for proxying files:
 
-**JSON:** https://cdn.jsdelivr.net/gh/ray-network/cardano-verified/main/tokens/list.json
+**JSON:** https://raw.githubusercontent.com/ray-network/cardano-verified/main/tokens/list.json
 
-**IMAGE:** https://cdn.jsdelivr.net/gh/ray-network/cardano-verified/main/tokens/icon/asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa.png
+**IMAGE:** https://raw.githubusercontent.com/ray-network/cardano-verified/main/tokens/icon/asset14y0dxsz9s9nd2lefkqvuu7edqlsg5p70r3wyxa.png
 
 
 ## Quality standard
