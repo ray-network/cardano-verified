@@ -566,7 +566,7 @@
       "category": "Launchpad",
       "icon": "cardence.png",
       "description": "Cardano focused multi-chain decentralized presale platform, an IDO platform, an incubator and accelerator.",
-      "url": "https://cardence.io/",
+      "url": "https://cardence.io",
       "twitter": "https://twitter.com/cardence_io"
     },
     {
@@ -574,7 +574,7 @@
       "category": "Launchpad",
       "icon": "gada.png",
       "description": "Gada is a permissionless and community-governed launchpad for Cardano",
-      "url": "https://www.gada.finance/index.html",
+      "url": "https://gada.finance",
       "twitter": "https://twitter.com/GADALaunchpad"
     },
     {
@@ -582,7 +582,7 @@
       "category": "DEX (Liquidity)",
       "icon": "cardaswap.png",
       "description": "Swap, Earn And Build On The Next-Gen DEX On The Cardano Blockchain Trade, Bridge And Become A Liquidity Provider In A Financial Marketplace That Is Open And Accessible To All.",
-      "url": "https://cardaswap.finance/",
+      "url": "https://cardaswap.finance",
       "twitter": "https://twitter.com/cardaswap"
     },
     {
@@ -590,7 +590,7 @@
       "category": "Oracle",
       "icon": "nutlink.png",
       "description": "1st generation Cardano oracles, connecting your nuts to squirrels since epoch 228",
-      "url": "https://nut.link/",
+      "url": "https://nut.link",
       "twitter": "https://twitter.com/stakenuts"
     },
     {
@@ -598,7 +598,7 @@
       "category": "Other",
       "icon": "tokhun.png",
       "description": "#1 Cardano NFT & FT Marketplace",
-      "url": "https://tokhun.io/",
+      "url": "https://tokhun.io",
       "twitter": "https://twitter.com/Tokhun_io"
     },
     {
@@ -606,7 +606,7 @@
       "category": "Other",
       "icon": "pavia.png",
       "description": "Create, explore and trade in the first-ever Cardano virtual world owned by its users.",
-      "url": "https://www.pavia.io/",
+      "url": "https://www.pavia.io",
       "twitter": "https://twitter.com/Pavia_io"
     },
     {
@@ -614,7 +614,7 @@
       "category": "Other",
       "icon": "worldmobiletoken.png",
       "description": "The first mobile network owned by the people and built on blockchain.",
-      "url": "https://worldmobiletoken.com/",
+      "url": "https://worldmobiletoken.com",
       "twitter": "https://twitter.com/WorldMobileTeam"
     }
   ]
