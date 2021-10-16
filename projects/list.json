@@ -1,5 +1,5 @@
 {
-  "updated": "2021-10-10T10:58:11.685Z",
+  "updated": "2021-10-16T13:52:51.532Z",
   "data": [
     {
       "name": "RayWallet",
@@ -323,7 +323,7 @@
     },
     {
       "name": "Paribus",
-      "category": "Lending & Borrowing",
+      "category": "Ecosystem",
       "icon": "paribus.png",
       "description": "A cross-chain borrowing and lending protocol for NFTs, liquidity positions, and synthetic assets, powered by the Cardano blockchain.",
       "url": "https://paribus.io",
@@ -560,6 +560,62 @@
       "description": "Ray Network provides Cardano staking services on high-performance servers in the Cloudflare cloud. High availability, high uptime, low latency and automated infrastructure deployment allow for the highest possible ROI.",
       "url": "https://rraayy.com/stake",
       "twitter": "https://twitter.com/RayNetwork"
+    },
+    {
+      "name": "Cardence",
+      "category": "Launchpad",
+      "icon": "cardence.png",
+      "description": "Cardano focused multi-chain decentralized presale platform, an IDO platform, an incubator and accelerator.",
+      "url": "https://cardence.io/",
+      "twitter": "https://twitter.com/cardence_io"
+    },
+    {
+      "name": "Gada",
+      "category": "Launchpad",
+      "icon": "gada.png",
+      "description": "Gada is a permissionless and community-governed launchpad for Cardano",
+      "url": "https://www.gada.finance/index.html",
+      "twitter": "https://twitter.com/GADALaunchpad"
+    },
+    {
+      "name": "Cardaswap",
+      "category": "DEX (Liquidity)",
+      "icon": "cardaswap.png",
+      "description": "Swap, Earn And Build On The Next-Gen DEX On The Cardano Blockchain Trade, Bridge And Become A Liquidity Provider In A Financial Marketplace That Is Open And Accessible To All.",
+      "url": "https://cardaswap.finance/",
+      "twitter": "https://twitter.com/cardaswap"
+    },
+    {
+      "name": "nut.link",
+      "category": "Oracle",
+      "icon": "nutlink.png",
+      "description": "1st generation Cardano oracles, connecting your nuts to squirrels since epoch 228",
+      "url": "https://nut.link/",
+      "twitter": "https://twitter.com/stakenuts"
+    },
+    {
+      "name": "Tokhun",
+      "category": "Other",
+      "icon": "tokhun.png",
+      "description": "#1 Cardano NFT & FT Marketplace",
+      "url": "https://tokhun.io/",
+      "twitter": "https://twitter.com/Tokhun_io"
+    },
+    {
+      "name": "Pavia",
+      "category": "Other",
+      "icon": "pavia.png",
+      "description": "Create, explore and trade in the first-ever Cardano virtual world owned by its users.",
+      "url": "https://www.pavia.io/",
+      "twitter": "https://twitter.com/Pavia_io"
+    },
+    {
+      "name": "WorldMobileToken",
+      "category": "Other",
+      "icon": "worldmobiletoken.png",
+      "description": "The first mobile network owned by the people and built on blockchain.",
+      "url": "https://worldmobiletoken.com/",
+      "twitter": "https://twitter.com/WorldMobileTeam"
     }
   ]
 }
