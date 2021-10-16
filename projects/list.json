@@ -539,7 +539,7 @@
     },
     {
       "name": "RayData",
-      "category": "Identy / KYC",
+      "category": "Identity / KYC",
       "icon": "raydata.png",
       "description": "RayData is a protocol that standardizes information written in a blockchain. The basic model is containers that are created by users, with write or read access allowed by the creator.",
       "url": "https://rraayy.com/data",
@@ -547,7 +547,7 @@
     },
     {
       "name": "Atala PRISM",
-      "category": "Identy / KYC",
+      "category": "Identity / KYC",
       "icon": "atalaprism.png",
       "description": "Atala PRISM is a decentralized identity solution that enables people to own their personal data and interact with organizations seamlessly, privately, and securely.",
       "url": "https://atalaprism.io",
