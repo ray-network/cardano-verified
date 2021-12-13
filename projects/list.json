@@ -6,7 +6,7 @@
       "category": "Wallet",
       "icon": "raywallet.png",
       "description": "RayWallet is a web light wallet for Cardano. Light wallets don't need to download or synchronize the blockchain. This means that once you open the wallet, you can send or verify the transaction receipts right away.",
-      "url": "https://rraayy.com/wallet",
+      "url": "https://raywallet.io",
       "twitter": "https://twitter.com/RayWallet"
     },
     {
@@ -142,7 +142,7 @@
       "category": "DEX (Liquidity)",
       "icon": "rayswap.png",
       "description": "RaySwap is an automated liquidity protocol for creating liquidity and trading native tokens on Cardano. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for fast, efficient trading. Where it makes tradeoffs decentralization, censorship resistance, and security are prioritized.",
-      "url": "https://rraayy.com/swap",
+      "url": "https://rayswap.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
@@ -262,7 +262,7 @@
       "category": "DeFi Ecosystem",
       "icon": "raynetwork.png",
       "description": "We provide the whole range of blockchain solutions for Cardano: from DeFi exchange, API provisioning, light wallets, minting tools & explorers, to different SDKs that open the blockchain world to thousands of crypto-enthusiasts from all over the world. It's all about ADA DeFi finances in one place!",
-      "url": "https://rraayy.com",
+      "url": "https://raynetwork.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
@@ -330,11 +330,11 @@
       "twitter": "https://twitter.com/paribus_io"
     },
     {
-      "name": "RayKickstart",
+      "name": "RayPad",
       "category": "Launchpad",
-      "icon": "raykickstart.png",
-      "description": "RayKickstart exists to help bring creative projects to life through tokenization. It allows you to create and fund your projects in minutes. A crypto-home for services, products, film, music, art, theater, games, comics, design, photography, and more.",
-      "url": "https://rraayy.com/kickstart",
+      "icon": "raypad.png",
+      "description": "RayPad exists to help bring creative projects to life through tokenization. It allows you to create and fund your projects in minutes. A crypto-home for services, products, film, music, art, theater, games, comics, design, photography, and more.",
+      "url": "https://raypad.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
@@ -454,7 +454,7 @@
       "category": "Graph & Query",
       "icon": "raygraph.png",
       "description": "Any dAPP needs to get historical blockchain data, so RayGraph is ready to let you deploy graphql-based APIs to access historical data and websockets to directly access node ledger state. It uses automated scalable deploys to Cloudflare infrastructure.",
-      "url": "https://rraayy.com/graph",
+      "url": "https://raygraph.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
@@ -542,7 +542,7 @@
       "category": "Identity / KYC",
       "icon": "raydata.png",
       "description": "RayData is a protocol that standardizes information written in a blockchain. The basic model is containers that are created by users, with write or read access allowed by the creator.",
-      "url": "https://rraayy.com/data",
+      "url": "https://raydata.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
@@ -558,7 +558,7 @@
       "category": "Stake Solutions",
       "icon": "raystake.png",
       "description": "Ray Network provides Cardano staking services on high-performance servers in the Cloudflare cloud. High availability, high uptime, low latency and automated infrastructure deployment allow for the highest possible ROI.",
-      "url": "https://rraayy.com/stake",
+      "url": "https://raystake.io",
       "twitter": "https://twitter.com/RayNetwork"
     },
     {
